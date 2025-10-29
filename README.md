@@ -1,4 +1,4 @@
-# 🧠 Understanding Git & GitHub
+# Understanding Git & GitHub
 
 ## 📌 Introduction
 
@@ -138,7 +138,7 @@ git merge feature-1
 
 ---
 
-## 🧠 Example: Basic GitHub Workflow
+## Example: Basic GitHub Workflow
 
 ```bash
 # Clone a repository
